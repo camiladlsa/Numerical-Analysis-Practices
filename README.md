@@ -1,1 +1,1 @@
-# Numerical-Analysis-Practices
+# Numerical Analysis Practices
